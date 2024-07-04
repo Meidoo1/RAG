@@ -8,4 +8,3 @@ chromadb
 tiktoken
 langchain_community
 sentence-transformers
-protoc==3.19.0
