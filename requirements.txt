@@ -8,3 +8,4 @@ chromadb
 tiktoken
 langchain_community
 sentence-transformers
+protobuf==3.20.*
