@@ -7,3 +7,4 @@ openai
 chromadb
 tiktoken
 langchain_community
+sentence-transformers
